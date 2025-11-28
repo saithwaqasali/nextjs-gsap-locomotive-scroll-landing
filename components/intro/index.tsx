@@ -16,12 +16,9 @@ const Intro = () => {
     const timeline = gsap.timeline({
       scrollTrigger: {
         trigger: document.documentElement,
-
         scrub: true,
-
         start: "top",
-
-        end: "+=500px",
+        end: "+=250px",
       },
     });
 
@@ -36,7 +33,7 @@ const Intro = () => {
     <section>
       <div className="relative w-full flex justify-center" ref={homeHeader}>
         <div
-          className="h-[140vh] w-full absolute brightness-75"
+          className="h-[140vh] w-full absolute brightness-50"
           ref={background}
         >
           <Image
