@@ -69,8 +69,10 @@ README.md
 
 ## 📚 Credits
 
-This project is a practice implementation based on the following public YouTube tutorial:  
-https://youtu.be/-CYruydmDfg  
+This project is a practice implementation based on the following public YouTube tutorials:  
+
+_Olivier Larose_
+
 All code was rewritten manually for educational purposes.
 
 ---
@@ -91,5 +93,5 @@ Add MIT License if you want others to use your code.
 ## 👤 Author
 
 Saith Waqas ali  
-Portfolio → _(add your link)_  
-GitHub → https://github.com/YOUR-USERNAME
+Portfolio → _https://saithwaqasali.com/_  
+GitHub → https://github.com/saithwaqasali
