@@ -26,47 +26,6 @@ This project recreates a modern scroll-based landing experience for learning and
 
 ---
 
-## 📦 Installation & Setup
-
-```bash
-# clone the repository
-git clone https://github.com/YOUR-USERNAME/nextjs-gsap-locomotive-scroll-landing.git
-
-cd nextjs-gsap-locomotive-scroll-landing
-
-# install dependencies
-npm install
-
-# run development server
-npm run dev
-```
-
-Then open:  
-`http://localhost:3000/`
-
----
-
-## 📁 Project Structure (Suggested)
-
-```
-/app
-  /components
-  /styles
-  layout.js
-  page.js
-/public
-/scripts
-README.md
-```
-
----
-
-## 🎥 Demo
-
-(Add a GIF or link once your project is complete.)
-
----
-
 ## 📚 Credits
 
 This project is a practice implementation based on the following public YouTube tutorials:  
